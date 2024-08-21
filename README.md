@@ -14,4 +14,4 @@ Merci pour votre aide et vos partages !
 
 hashtag#Stage hashtag#Bruxelles hashtag#FullStack hashtag#FrontEnd hashtag#RechercheDeStage hashtag#DéveloppementWeb hashtag#Opportunités
 
-![CV](https://github.com/Nathbecode/MyCV/blob/main/CV-Nathaly%20Viscaino.pdf)
+[CV](https://github.com/Nathbecode/MyCV/blob/main/CV-Nathaly%20Viscaino.pdf)
