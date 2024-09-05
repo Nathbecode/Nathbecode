@@ -9,10 +9,10 @@ Passionnée par les nouvelles technologies et toujours prête à relever de nouv
 Vous trouverez mon CV ci-joint. Si vous connaissez une entreprise à la recherche d'une stagiaire motivée et curieuse, n'hésitez pas à me contacter ou à partager mon profil.
 
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvyRmieFYEx56pJ4SVB4N1QWY0-NNBNs1WKw&s" alt="Alt text" width="70" height="30">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvyRmieFYEx56pJ4SVB4N1QWY0-NNBNs1WKw&s" alt="Alt text" width="70" height="35"> <img src="https://i.altapps.net/icons/ejs-a450f.jpeg" alt="Alt text" width="70" height="35">
 
 
-<img src="https://i.altapps.net/icons/ejs-a450f.jpeg" alt="Alt text" width="70" height="30">
+
 
 ---
 
