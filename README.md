@@ -10,6 +10,8 @@ Vous trouverez mon CV ci-joint. Si vous connaissez une entreprise à la recherch
 
 
 ![MONGODB](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvyRmieFYEx56pJ4SVB4N1QWY0-NNBNs1WKw&s)
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvyRmieFYEx56pJ4SVB4N1QWY0-NNBNs1WKw&s" alt="Alt text" width="500" height="300">
+
 
 
 ---
