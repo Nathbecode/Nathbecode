@@ -6,7 +6,7 @@ Passionnée par les nouvelles technologies et toujours prête à relever de nouv
 
 🌱 **Mes valeurs** : Je suis particulièrement attirée par les entreprises qui partagent des valeurs environnementales et féministes, mais je suis ouverte à toute opportunité qui me permettrait de continuer à apprendre et à évoluer.
 
-Vous trouverez mon CV [N.V](https://github.com/Nathbecode/Nathbecode/blob/main/CV-Nathaly.Viscaino.pdf)
+Vous trouverez ici mon CV [N.V](https://github.com/Nathbecode/Nathbecode/blob/main/CV-Nathaly.Viscaino.pdf)
 . Si vous connaissez une entreprise à la recherche d'une stagiaire motivée et curieuse, n'hésitez pas à me contacter ou à partager mon profil.
 
 
