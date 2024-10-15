@@ -1,4 +1,3 @@
-# 🔍 À la recherche d'un stage à Bruxelles ! 🔍
 
 Poursuivant un stage en développement web.
 
